@@ -3,3 +3,6 @@ body {
 	background: green;
 	text-align: center;
 }
+.container {
+  display: flex; /* or inline-flex */
+}
